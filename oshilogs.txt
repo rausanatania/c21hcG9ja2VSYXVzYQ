@@ -1,0 +1,103 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VSYXVzYQ/c21hcG9ja2VSYXVzYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Rausa =====
+[1]Rausa       |08:42:35 | 11-10-2026| login OK @rausanatania | score=950 rank=6104
+[1]Rausa       |08:42:35 | 11-10-2026| serverTime=2026-10-11T08:42:35.000Z local=2026-10-11T08:42:35.844Z
+--> [1]Rausa menjalankan: Claim Daily
+[1]Rausa       |08:42:37 | 11-10-2026| daily: sudah klaim (already=true) score=950
+--> [1]Rausa menjalankan: Auto All Tasks (3 pending)
+[1]Rausa       |08:42:39 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rausanatania/status/2109202373818071645
+[1]Rausa       |08:42:39 | 11-10-2026| delay 10s...
+[1]Rausa       |08:42:53 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rausanatania/status/2109202577114236674
+[1]Rausa       |08:42:53 | 11-10-2026| delay 10s...
+[1]Rausa       |08:43:08 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rausanatania/status/2109202729116581915
+[1]Rausa       |08:43:08 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Rausa       |08:43:09 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/rausanatania/status/2109202628096874412
+--> [1]Rausa menjalankan: Watch Anime
+[1]Rausa       |08:43:09 | 11-10-2026| watch: 2 video belum completed: oshi-first-journey,ep4
+[1]Rausa       |08:43:09 | 11-10-2026| watch [1/2] farming oshi-first-journey...
+[1]Rausa       |08:43:12 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Rausa       |08:43:18 | 11-10-2026| watch oshi-first-journey: 6% (5.32/87.00s)
+[1]Rausa       |08:43:25 | 11-10-2026| watch oshi-first-journey: 12% (10.90/87.00s)
+[1]Rausa       |08:43:32 | 11-10-2026| watch oshi-first-journey: 19% (17.10/87.00s)
+[1]Rausa       |08:43:38 | 11-10-2026| watch oshi-first-journey: 26% (22.74/87.00s)
+[1]Rausa       |08:43:46 | 11-10-2026| watch oshi-first-journey: 32% (28.26/87.00s)
+[1]Rausa       |08:43:55 | 11-10-2026| watch oshi-first-journey: 41% (35.71/87.00s)
+[1]Rausa       |08:44:03 | 11-10-2026| watch oshi-first-journey: 50% (43.71/87.00s)
+[1]Rausa       |08:44:11 | 11-10-2026| watch oshi-first-journey: 57% (50.24/87.00s)
+[1]Rausa       |08:44:21 | 11-10-2026| watch oshi-first-journey: 66% (57.96/87.00s)
+[1]Rausa       |08:44:28 | 11-10-2026| watch oshi-first-journey: 76% (66.23/87.00s)
+[1]Rausa       |08:44:36 | 11-10-2026| watch oshi-first-journey: 84% (73.19/87.00s)
+[1]Rausa       |08:44:43 | 11-10-2026| watch oshi-first-journey: 92% (80.27/87.00s)
+[1]Rausa       |08:44:43 | 11-10-2026| watch oshi-first-journey: COMPLETED (80.27/87.00s)
+[1]Rausa       |08:44:48 | 11-10-2026| watch [2/2] farming ep4...
+[1]Rausa       |08:44:49 | 11-10-2026| watch ep4: mulai dari 0 (record 147.4s diabaikan)
+[1]Rausa       |08:44:50 | 11-10-2026| watch ep4: 41% (147.38/353.00s)
+[1]Rausa       |08:44:57 | 11-10-2026| watch ep4: 41% (147.38/353.00s)
+[1]Rausa       |08:45:03 | 11-10-2026| watch ep4: 41% (147.38/353.00s)
+[1]Rausa       |08:45:12 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:45:18 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:45:25 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:45:33 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:45:41 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:45:49 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:45:57 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:46:04 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:46:10 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:46:18 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:46:25 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:46:32 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:46:41 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:46:47 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:46:54 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:47:03 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:47:11 | 11-10-2026| watch ep4: 41% (147.59/353.00s)
+[1]Rausa       |08:47:19 | 11-10-2026| watch ep4: 41% (147.76/353.00s)
+[1]Rausa       |08:47:25 | 11-10-2026| watch ep4: 41% (147.76/353.00s)
+[1]Rausa       |08:47:35 | 11-10-2026| watch ep4: 41% (147.76/353.00s)
+[1]Rausa       |08:47:46 | 11-10-2026| watch ep4: 43% (153.85/353.00s)
+[1]Rausa       |08:47:54 | 11-10-2026| watch ep4: 45% (161.62/353.00s)
+[1]Rausa       |08:48:01 | 11-10-2026| watch ep4: heartbeat GAGAL http=503
+--> [1]Rausa menjalankan: Read Article
+[1]Rausa       |08:48:01 | 11-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Rausa menjalankan: Quiz Anime
+[1]Rausa       |08:48:01 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Rausa menjalankan: Music Missions (realtime, bisa lama!)
+[1]Rausa       |08:48:01 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Rausa       |08:48:01 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Rausa menjalankan: Claim Missions
+[1]Rausa       |08:48:02 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Rausa menjalankan: Check Eligibility
+
+--- eligibility [1]Rausa ---
+  @rausanatania | score=950 rank=6104
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Rausa menjalankan: Read Manga
+[1]Rausa       |08:48:02 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Rausa menjalankan: Get Gift
+[1]Rausa       |08:48:02 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Rausa menjalankan: Setup Profile
+[1]Rausa       |08:48:02 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Rausa menjalankan: Bind Wallet
+[1]Rausa       |08:48:02 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Rausa: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 1/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
