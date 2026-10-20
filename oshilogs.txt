@@ -12,58 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Rausa =====
-[1]Rausa       |05:57:34 | 19-10-2026| login OK @rausanatania | score=1440 rank=4742
-[1]Rausa       |05:57:34 | 19-10-2026| serverTime=2026-10-19T05:57:33.000Z local=2026-10-19T05:57:34.019Z
+[1]Rausa       |05:51:16 | 20-10-2026| login OK @rausanatania | score=1500 rank=4708
+[1]Rausa       |05:51:16 | 20-10-2026| serverTime=2026-10-20T05:51:16.000Z local=2026-10-20T05:51:16.768Z
 --> [1]Rausa menjalankan: Claim Daily
-[1]Rausa       |05:57:35 | 19-10-2026| daily: OK +10 poin score=1450
---> [1]Rausa menjalankan: Auto All Tasks (5 pending)
-[1]Rausa       |05:57:37 | 19-10-2026| [1/5] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/rausanatania/status/2112060279454323843
-[1]Rausa       |05:57:37 | 19-10-2026| delay 10s...
-[1]Rausa       |05:57:51 | 19-10-2026| [2/5] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/rausanatania/status/2112060087562179934
-[1]Rausa       |05:57:51 | 19-10-2026| delay 10s...
-[1]Rausa       |05:58:04 | 19-10-2026| [3/5] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/rausanatania/status/2112060093402345667
-[1]Rausa       |05:58:04 | 19-10-2026| delay 10s...
-[1]Rausa       |05:58:17 | 19-10-2026| [4/5] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/rausanatania/status/2112060126523273362
-[1]Rausa       |05:58:17 | 19-10-2026| delay 10s...
-[1]Rausa       |05:58:29 | 19-10-2026| [5/5] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/rausanatania/status/2112060173229295503
-[1]Rausa       |05:58:29 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Rausa       |05:58:31 | 19-10-2026| [1/1] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111998437793382 | proof=https://x.com/rausanatania/status/2112060287633225517
+[1]Rausa       |05:51:17 | 20-10-2026| daily: OK +10 poin score=1510
+--> [1]Rausa menjalankan: Auto All Tasks (11 pending)
+[1]Rausa       |05:51:19 | 20-10-2026| [1/11] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112420854155587005
+[1]Rausa       |05:51:19 | 20-10-2026| delay 10s...
+[1]Rausa       |05:51:32 | 20-10-2026| [2/11] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421110237546841
+[1]Rausa       |05:51:32 | 20-10-2026| delay 10s...
+[1]Rausa       |05:51:44 | 20-10-2026| [3/11] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421084035656167
+[1]Rausa       |05:51:44 | 20-10-2026| delay 10s...
+[1]Rausa       |05:51:57 | 20-10-2026| [4/11] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421256553587512
+[1]Rausa       |05:51:57 | 20-10-2026| delay 10s...
+[1]Rausa       |05:52:09 | 20-10-2026| [5/11] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421264377866738
+[1]Rausa       |05:52:09 | 20-10-2026| delay 10s...
+[1]Rausa       |05:52:22 | 20-10-2026| [6/11] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421373674599481
+[1]Rausa       |05:52:22 | 20-10-2026| delay 10s...
+[1]Rausa       |05:52:39 | 20-10-2026| [7/11] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421061972123193
+[1]Rausa       |05:52:39 | 20-10-2026| delay 10s...
+[1]Rausa       |05:52:52 | 20-10-2026| [8/11] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421427698784100
+[1]Rausa       |05:52:52 | 20-10-2026| delay 10s...
+[1]Rausa       |05:53:04 | 20-10-2026| [9/11] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421375840600827
+[1]Rausa       |05:53:04 | 20-10-2026| delay 10s...
+[1]Rausa       |05:53:17 | 20-10-2026| [10/11] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421440245031858
+[1]Rausa       |05:53:17 | 20-10-2026| delay 10s...
+[1]Rausa       |05:53:29 | 20-10-2026| [11/11] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rausanatania/status/2112421362671124792
+[1]Rausa       |05:53:29 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Rausa       |05:53:30 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/rausanatania/status/2112421425671661821
 --> [1]Rausa menjalankan: Watch Anime
-[1]Rausa       |05:58:32 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Rausa       |05:58:32 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Rausa       |05:53:32 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Rausa       |05:53:32 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Rausa       |05:58:34 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Rausa       |05:58:39 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Rausa       |05:58:41 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Rausa       |05:58:46 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Rausa       |05:58:48 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Rausa       |05:58:53 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Rausa       |05:58:54 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Rausa       |05:53:34 | 20-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Rausa       |05:53:39 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Rausa       |05:53:40 | 20-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Rausa       |05:53:45 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Rausa       |05:53:48 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Rausa       |05:53:53 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Rausa       |05:53:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Rausa menjalankan: Read Article
-[1]Rausa       |05:58:57 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Rausa       |05:58:58 | 19-10-2026| mint eligibility: {"userId":"1918726062810574848","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rausanatania","status":"submitted","revision":"38795980-a3d5-47b8-b015-16437d2f9
-[1]Rausa       |05:58:58 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Rausa       |05:53:56 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Rausa       |05:53:56 | 20-10-2026| mint eligibility: {"userId":"1918726062810574848","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rausanatania","status":"submitted","revision":"38795980-a3d5-47b8-b015-16437d2f9
+[1]Rausa       |05:53:56 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Rausa menjalankan: Quiz Anime
-[1]Rausa       |05:58:59 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Rausa       |05:58:59 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Rausa       |05:58:59 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Rausa       |05:58:59 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Rausa       |05:58:59 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Rausa       |05:58:59 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Rausa       |05:53:57 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Rausa       |05:53:57 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Rausa       |05:53:57 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Rausa       |05:53:57 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Rausa       |05:53:57 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Rausa       |05:53:57 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Rausa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Rausa       |05:59:02 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Rausa       |05:59:03 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Rausa       |05:59:03 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Rausa       |05:59:03 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Rausa       |05:53:59 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Rausa       |05:53:59 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Rausa       |05:53:59 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Rausa       |05:53:59 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Rausa menjalankan: Claim Missions
-[1]Rausa       |05:59:03 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Rausa       |05:59:03 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Rausa       |05:59:03 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Rausa       |05:54:00 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Rausa       |05:54:00 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Rausa       |05:54:00 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Rausa menjalankan: Check Eligibility
 
 --- eligibility [1]Rausa ---
-  @rausanatania | score=1440 rank=4742
-  tasks    [###################-] 74/79
+  @rausanatania | score=1500 rank=4708
+  tasks    [#################---] 71/82
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -74,14 +86,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Rausa menjalankan: Read Manga
-[1]Rausa       |05:59:10 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Rausa       |05:54:04 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Rausa menjalankan: Get Gift
-[1]Rausa       |05:59:11 | 19-10-2026| gift: 0/4 belum diterima
+[1]Rausa       |05:54:05 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Rausa menjalankan: Setup Profile
-[1]Rausa       |05:59:11 | 19-10-2026| profile: bio="https://x.com/rausanatania" fav=yuki rewardAt=1791693932
-[1]Rausa       |05:59:11 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Rausa       |05:54:05 | 20-10-2026| profile: bio="https://x.com/rausanatania" fav=yuki rewardAt=1791693932
+[1]Rausa       |05:54:05 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Rausa menjalankan: Bind Wallet
-[1]Rausa       |05:59:12 | 19-10-2026| wallet: sudah terikat H5P1nC1okj... (solana)
+[1]Rausa       |05:54:06 | 20-10-2026| wallet: sudah terikat H5P1nC1okj... (solana)
 
 == RINGKASAN ==
-- Rausa: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Rausa: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
