@@ -12,41 +12,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Rausa =====
-[1]Rausa       |09:16:24 | 26-11-2026| login OK @rausanatania | score=3490 rank=2245
-[1]Rausa       |09:16:24 | 26-11-2026| serverTime=2026-11-26T09:16:24.000Z local=2026-11-26T09:16:24.457Z
+[1]Rausa       |13:24:40 | 27-11-2026| login OK @rausanatania | score=3540 rank=2213
+[1]Rausa       |13:24:40 | 27-11-2026| serverTime=2026-11-27T13:24:40.000Z local=2026-11-27T13:24:40.185Z
 --> [1]Rausa menjalankan: Claim Daily
-[1]Rausa       |09:16:27 | 26-11-2026| daily: OK +10 poin score=3500
---> [1]Rausa menjalankan: Auto All Tasks (4 pending)
-[1]Rausa       |09:16:29 | 26-11-2026| [1/4] dacb84a3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dacb84a3-2785-467b-af3c-2ac2000157e6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212577829081233 | proof=https://x.com/rausanatania/status/2125880991820240981
-[1]Rausa       |09:16:29 | 26-11-2026| delay 10s...
-[1]Rausa       |09:16:41 | 26-11-2026| [2/4] 288c3ab7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dacb84a3-2785-467b-af3c-2ac2000157e6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212577829081233 | proof=https://x.com/rausanatania/status/2125881067505914388
-[1]Rausa       |09:16:41 | 26-11-2026| delay 10s...
-[1]Rausa       |09:16:53 | 26-11-2026| [3/4] a2a7dad9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dacb84a3-2785-467b-af3c-2ac2000157e6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212577829081233 | proof=https://x.com/rausanatania/status/2125881051744012124
-[1]Rausa       |09:16:53 | 26-11-2026| delay 10s...
-[1]Rausa       |09:17:06 | 26-11-2026| [4/4] f7b82d41 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dacb84a3-2785-467b-af3c-2ac2000157e6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212577829081233 | proof=https://x.com/rausanatania/status/2125881253694838651
-[1]Rausa       |09:17:06 | 26-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Rausa       |09:17:09 | 26-11-2026| [1/1] dacb84a3 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"dacb84a3-2785-467b-af3c-2ac2000157e6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125778290812338 | proof=https://x.com/rausanatania/status/2125881242041060963
+[1]Rausa       |13:24:41 | 27-11-2026| daily: OK +10 poin score=3550
+--> [1]Rausa menjalankan: Auto All Tasks (3 pending)
+[1]Rausa       |13:24:54 | 27-11-2026| [1/3] 3f5ce0b6 (reply) verify GAGAL http=503 resp={"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"} | proof=https://x.com/rausanatania/status/2126305738703026287
+[1]Rausa       |13:24:54 | 27-11-2026| delay 10s...
+[1]Rausa       |13:25:06 | 27-11-2026| [2/3] 4cdfafa2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212627842799310 | proof=https://x.com/rausanatania/status/2126305915914591691
+[1]Rausa       |13:25:06 | 27-11-2026| delay 10s...
+[1]Rausa       |13:25:18 | 27-11-2026| [3/3] dfcc39bb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212627842799310 | proof=https://x.com/rausanatania/status/2126306053515232949
+[1]Rausa       |13:25:18 | 27-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Rausa       |13:25:20 | 27-11-2026| [1/1] 3f5ce0b6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2126278427993100 | proof=https://x.com/rausanatania/status/2126305844184766002
 --> [1]Rausa menjalankan: Watch Anime
-[1]Rausa       |09:17:09 | 26-11-2026| watch: semua video sudah completed
+[1]Rausa       |13:25:20 | 27-11-2026| watch: semua video sudah completed
 --> [1]Rausa menjalankan: Read Article
-[1]Rausa       |09:17:09 | 26-11-2026| news: 34/35 artikel selesai dibaca
-[1]Rausa       |09:17:10 | 26-11-2026| mint eligibility: {"userId":"1918726062810574848","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rausanatania","status":"submitted","revision":"38795980-a3d5-47b8-b015-16437d2f9
-[1]Rausa       |09:17:16 | 26-11-2026| news [1/1] sbi-solana-global-2026-11: OK completed=35
+[1]Rausa       |13:25:21 | 27-11-2026| news: 35/35 artikel selesai dibaca
+[1]Rausa       |13:25:22 | 27-11-2026| mint eligibility: {"userId":"1918726062810574848","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rausanatania","status":"submitted","revision":"38795980-a3d5-47b8-b015-16437d2f9
+[1]Rausa       |13:25:22 | 27-11-2026| news: semua artikel sudah dibaca
 --> [1]Rausa menjalankan: Quiz Anime
 --> [1]Rausa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Rausa       |09:17:20 | 26-11-2026| music: kedua misi sudah tercapai, stop
-[1]Rausa       |09:17:20 | 26-11-2026| mission music-listens-10: sudah diklaim
-[1]Rausa       |09:17:20 | 26-11-2026| mission music-minutes-30: sudah diklaim
-[1]Rausa       |09:17:20 | 26-11-2026| mission anime-completed-3: sudah diklaim
+[1]Rausa       |13:25:24 | 27-11-2026| music: kedua misi sudah tercapai, stop
+[1]Rausa       |13:25:24 | 27-11-2026| mission music-listens-10: sudah diklaim
+[1]Rausa       |13:25:24 | 27-11-2026| mission music-minutes-30: sudah diklaim
+[1]Rausa       |13:25:24 | 27-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Rausa menjalankan: Claim Missions
-[1]Rausa       |09:17:20 | 26-11-2026| mission music-listens-10: sudah diklaim
-[1]Rausa       |09:17:20 | 26-11-2026| mission music-minutes-30: sudah diklaim
-[1]Rausa       |09:17:20 | 26-11-2026| mission anime-completed-3: sudah diklaim
+[1]Rausa       |13:25:24 | 27-11-2026| mission music-listens-10: sudah diklaim
+[1]Rausa       |13:25:24 | 27-11-2026| mission music-minutes-30: sudah diklaim
+[1]Rausa       |13:25:24 | 27-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Rausa menjalankan: Check Eligibility
 
 --- eligibility [1]Rausa ---
-  @rausanatania | score=3490 rank=2245
-  tasks    [#######-------------] 2/6
+  @rausanatania | score=3540 rank=2213
+  tasks    [#############-------] 5/8
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -57,17 +55,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Rausa menjalankan: Read Manga
-[1]Rausa       |09:17:23 | 26-11-2026| manga: 0/13 chapter belum completed
+[1]Rausa       |13:25:27 | 27-11-2026| manga: 0/13 chapter belum completed
 --> [1]Rausa menjalankan: Get Gift
-[1]Rausa       |09:17:25 | 26-11-2026| gift: 3/12 belum diterima
-[1]Rausa       |09:17:26 | 26-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Rausa       |09:17:29 | 26-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Rausa       |09:17:32 | 26-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Rausa       |13:25:29 | 27-11-2026| gift: 3/12 belum diterima
+[1]Rausa       |13:25:29 | 27-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Rausa       |13:25:32 | 27-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Rausa       |13:25:35 | 27-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Rausa menjalankan: Setup Profile
-[1]Rausa       |09:17:34 | 26-11-2026| profile: bio="https://x.com/rausanatania" fav=yuki rewardAt=1791693932
-[1]Rausa       |09:17:34 | 26-11-2026| profile: bonus sudah diklaim, skip
+[1]Rausa       |13:25:37 | 27-11-2026| profile: bio="https://x.com/rausanatania" fav=yuki rewardAt=1791693932
+[1]Rausa       |13:25:37 | 27-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Rausa menjalankan: Bind Wallet
-[1]Rausa       |09:17:35 | 26-11-2026| wallet: sudah terikat H5P1nC1okj... (solana)
+[1]Rausa       |13:25:38 | 27-11-2026| wallet: sudah terikat H5P1nC1okj... (solana)
 
 == RINGKASAN ==
-- Rausa: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Rausa: daily=claimed | tasks OK 3/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
